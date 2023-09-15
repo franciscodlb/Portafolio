@@ -1,0 +1,181 @@
+body {
+    margin: 0;
+}
+
+.cuadrado{
+    border-style: solid;
+    border-width: 10px;
+}
+
+.cuadrado.blanco1{
+    background-color:white;
+    height: 210px;
+    width: 40px;
+}
+
+.cuadrado.blanco2{
+    background-color:white;
+    height: 60px;
+    width: 40px;
+    position: fixed;
+    top: 210px
+}
+
+.cuadrado.blanco3{
+    background-color:white;
+    height: 30px;
+    width: 40px;
+    position: fixed;
+    top: 270px
+}
+
+.cuadrado.blanco4{
+    background-color:white;
+    height: 200px;
+    width: 160px;
+    position: fixed;
+    top: 0px;
+    left: 50px;
+}
+
+.cuadrado.azul{
+    background-color:blue;
+    height: 50px;
+    width: 160px;
+    position: fixed;
+    top: 210px;
+    left: 50px;
+}
+
+.cuadrado.blanco5{
+    background-color:white;
+    height: 30px;
+    width: 160px;
+    position: fixed;
+    top: 270px;
+    left: 50px;
+}
+
+.cuadrado.blanco6{
+    background-color:white;
+    height: 30px;
+    width: 40px;
+    position: fixed;
+    top: 0px;
+    left: 220px;
+}
+
+.cuadrado.blanco7{
+    background-color:white;
+    height: 160px;
+    width: 40px;
+    position: fixed;
+    top: 40px;
+    left: 220px;
+}
+
+.cuadrado.blanco8{
+    background-color:white;
+    height: 50px;
+    width: 40px;
+    position: fixed;
+    top: 210px;
+    left: 220px;
+}
+
+.cuadrado.blanco9{
+    background-color:white;
+    height: 30px;
+    width: 40px;
+    position: fixed;
+    top: 270px;
+    left: 220px;
+}
+
+.cuadrado.blanco10{
+    background-color:white;
+    height: 30px;
+    width: 160px;
+    position: fixed;
+    top: 0px;
+    left: 270px;
+}
+
+.cuadrado.rojo{
+    background-color:red;
+    height: 160px;
+    width: 160px;
+    position: fixed;
+    top: 40px;
+    left: 270px;
+}
+
+.cuadrado.blanco11{
+    background-color:white;
+    height: 90px;
+    width: 160px;
+    position: fixed;
+    top: 210px;
+    left: 270px;
+}
+
+.cuadrado.amarillo{
+    background-color:yellow;
+    height: 30px;
+    width: 160px;
+    position: fixed;
+    top: 0px;
+    left: 370px;
+}
+
+.cuadrado.blanco12{
+    background-color:white;
+    height: 160px;
+    width: 160px;
+    position: fixed;
+    top: 40px;
+    left: 370px;
+}
+
+.cuadrado.blanco13{
+    background-color:white;
+    height: 90px;
+    width: 160px;
+    position: fixed;
+    top: 210px;
+    left: 370px;
+}
+
+
+
+/*
+.top-container{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 10px;
+    padding: 20px;
+}
+
+.middle-container{
+    background-color:red;
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 20px;
+    position: fixed;
+    top: 260px;
+    left: 260px;
+}
+
+.bottom-container{
+    background-color:yellow;
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 10px;
+    position: fixed;
+    top: 500px;
+    left: 500px;
+}
