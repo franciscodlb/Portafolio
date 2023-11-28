@@ -1,0 +1,19 @@
+div{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+.top-container{
+    background-color: red;
+}
+.mid-container{
+    background-color: blue;
+    position: sticky;
+
+}
+.low-container{
+    background-color: yellow;
+    border: black solid 10px;
+    margin-left: 500px;
+}
+

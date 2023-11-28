@@ -1,0 +1,50 @@
+div {
+    background-color: aquamarine;
+    color: navy;
+}
+p {
+    font-family: sursive;
+
+}
+blockquote{
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 
+tbody{
+    background-color: blueviolet;
+}
+#canada{
+    background-color: olive;
+    color: white;
+    border-color: gold;
+    border-width: 1cm;
+    border-style: dashed ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular','Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.leia{
+    visibility: visible;
+}
+.leia:hover{
+    display: none;
+}
+.han{
+    visibility: hidden;
+}
+.han.hover{
+    display: block;
+}
+.destination {
+    background-color: navy;
+    color: white;
+    border-color: red;
+    border-width: 1cm;
+    border-style: dotted;
+}
+.destination tbody{
+    background-color: olive;
+}
+
+.destination td{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
